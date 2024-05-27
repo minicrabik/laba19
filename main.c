@@ -2,12 +2,14 @@
 #include "task/convertFloat.h"
 #include "task/evaluateExpression.h"
 #include "task/filterWord.h"
+#include "task/leaveLongestWord.h"
 
 void test() {
     test_matrix_transpose();
     test_convert_float();
     test_evaluate();
     test_filter_word();
+    test_leave_longest();
 }
 
 int main() {
