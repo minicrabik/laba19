@@ -18,6 +18,7 @@ add_executable(laba19 main.c
         data_structures/string/task/find_anagram_words.h
 
         task/matrixTransposition.h
-        task/matrixTransposition.h
+        task/convertFloat.h
+        task/evaluateExpression.h
 
 )
