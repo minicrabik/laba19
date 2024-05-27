@@ -1,6 +1,12 @@
-#include <stdio.h>
+#include "task/matrixTransposition.h"
+
+void test() {
+    test_matrix_transpose();
 
 int main() {
-    printf("Hello, World!\n");
-    return 0;
+    int main() {
+        test();
+
+        return 0;
+    }
 }

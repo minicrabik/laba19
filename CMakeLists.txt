@@ -17,4 +17,7 @@ add_executable(laba19 main.c
         data_structures/string/task/print_revers_ordered.h
         data_structures/string/task/find_anagram_words.h
 
+        task/matrixTransposition.h
+        task/matrixTransposition.h
+
 )
