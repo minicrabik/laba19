@@ -20,5 +20,10 @@ add_executable(laba19 main.c
         task/matrixTransposition.h
         task/convertFloat.h
         task/evaluateExpression.h
+        task/filterWord.h
+        task/leaveLongestWord.h
+        task/transposeNonSymmetricMatrix.h
+        task/rearrangeNumbers.h
+        task/removeTruePolynomial.h
 
 )
